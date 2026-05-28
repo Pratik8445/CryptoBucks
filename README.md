@@ -55,8 +55,7 @@ Powered by [CoinGecko API](https://www.coingecko.com/en/api):
 - `/coins/markets` → Market data  
 - `/search` → Search cryptocurrencies  
 - `/coins/{id}` → Detailed coin data  
-
----
+  ****
 
 ## 🛠 Tech Stack  
 - **React.js** ⚛️  
